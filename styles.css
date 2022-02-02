@@ -9,6 +9,8 @@
     "map map map vase-short"
     "vase-tall bamboo bamboo bamboo"
     "vase-tall quadropus quadropus quadropus";
+
+    
     
 
   }
@@ -16,7 +18,6 @@
   #bamboo {
     grid-area: bamboo;
     display: flex;
-    
   }
   
   #fish-flag {
